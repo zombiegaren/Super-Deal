@@ -2,9 +2,6 @@
 
 ![double_tap.jpg](https://raw.githubusercontent.com/zombiegaren/Super-Deal/main/double_tap.jpg)
 
-## Artist Statement
-Short blurb here (150-300 words). E.g., "Exploring the intersection of myth, motion, and digital ephemera through video and stills."
-
 ## Work Samples
 
 ### head_of_hermes.mp4 (Duration: ~XX min)
