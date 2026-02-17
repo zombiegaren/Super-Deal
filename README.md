@@ -1,6 +1,6 @@
 Super Deal
 
-![double_tap.jpg](https://raw.githubusercontent.com/zombiegaren/Super-Deal/main/double_tap.jpg)
+[Image: double_tap.jpg](https://raw.githubusercontent.com/zombiegaren/Super-Deal/main/double_tap.jpg)
 
 
 ### head_of_hermes.mp4 (Duration: 00:00:15)
