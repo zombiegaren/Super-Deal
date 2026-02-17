@@ -1,5 +1,3 @@
-### Super Deal
-
 ### double_tap.jpg
 [Image: double_tap.jpg](https://raw.githubusercontent.com/zombiegaren/Super-Deal/main/double_tap.jpg)
 
